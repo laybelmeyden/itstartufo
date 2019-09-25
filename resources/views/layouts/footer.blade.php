@@ -7,7 +7,7 @@
 							<a href="https://www.instagram.com/airpressa/"><i class="fa fa-instagram"></i></a>
 						</div>
 						<div class="col-sm-12 text-white" style="text-align:center; padding-bottom:20px;">
-							Copyright ©2018 All rights reserved | AIR
+							Copyright © All rights reserved | AIR
 						</div>
 				</div>
 				</div>

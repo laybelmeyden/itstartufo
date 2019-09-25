@@ -8,7 +8,7 @@
 					<div class="row fullscreen d-flex align-items-center justify-content-center">
 						<div class="banner-content col-lg-6 col-md-6">
 							<h1 class="head_h1">
-								Всероссийская программа поддержки научно-технического творчества молодежи в сфере информационных технологий			
+							Молодежная школа развития цифровых компетенций Южного федерального округа		
 							</h1>
 							<p class="text-white text-uppercase">
 								Познакомьтесь с нашей деятельностью поближе
@@ -22,7 +22,42 @@
 				</div>
 			</section>
 			<!-- End banner Area -->
-
+<!-- Start home-about Area -->
+<section class="home-about-area">
+				<div class="container-fluid">
+					<div class="row align-items-center">
+						<div class="col-lg-6 home-about-left no-padding">
+							<img class="mx-auto d-block img-fluid" src="assets/img/about-img.png" alt="">
+						</div>
+						<div class="col-lg-6 home-about-right no-padding">
+							<p class="p_1">
+							Ты молодой, социально активный человек, стремишься создавать собственные проекты и реализовать себя с профессиональной точки зрения? <br><br>
+							<b>Молодежная школа развития цифровых компетенций Южного федерального округа – то, что тебе нужно!</b><br><br> 3 дня интенсивного обучения проектной деятельности с использованием цифровых технологий, первоклассные спикеры и эксперты, деловые игры и презентационная сессия. 
+							<br><br>Особенностью программы является изучение и имплементация технологий, прописанных в национальном проекте «Цифровая экономика РФ»: VR, AR, Big data, «умный город», «интернет вещей». В процессе обучения участникам будет предложено на выбор несколько кейсов, в которых смоделированы различные жизненные и профессиональные ситуации, решить которые предлагается с использованием современных цифровых технологий. 
+							<br><br>По итогам окружной школы, команды - победители получат ценные призы и возможность пройти зарубежную образовательную стажировку.</p>
+						</div>
+					</div>
+				</div>	
+			</section>
+			<!-- End home-about Area -->
+			<section class="home-about-area">
+				<div class="container-fluid">
+					<div class="row align-items-center">
+						<div class="col-lg-6 home-about-right_1 no-padding">
+							<h3>Даты проведения: <b>8-10 ноября 2019 года</b></h3>
+							<br><br>
+							<h3>Место проведения:</h3>
+							<br><br>
+							<h3>Начало: <b>в 11.00</b></h3>
+							<br><br>
+							<h3>Регистрация участников – <b>до 6 ноября 2019 года</b></h3>
+						</div>
+						<div class="col-lg-6 home-about-left no-padding">
+						<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A84ef522eb38f463dba422714a40a89c9fdc361d70ca70c2071084e8395a8a2bc&amp;source=constructor" width="100%" height="600" frameborder="0"></iframe>
+						</div>
+					</div>
+				</div>	
+			</section>
 			<!-- Start products Area -->
 			<section class="products-area section-gap">
 				<div class="container">
@@ -88,25 +123,6 @@
 				</div>	
 			</section>
 			<!-- End products Area -->
-
-			<!-- Start home-about Area -->
-			<section class="home-about-area">
-				<div class="container-fluid">
-					<div class="row align-items-center">
-						<div class="col-lg-6 home-about-left no-padding">
-							<img class="mx-auto d-block img-fluid" src="assets/img/about-img.png" alt="">
-						</div>
-						<div class="col-lg-6 home-about-right no-padding">
-							<h1>Есть вопросы ?</h1>
-							<h5>
-								Напиши нам !
-							</h5>
-							<a class="primary-btn text-uppercase btn_cont" href="/contact">НАПИСАТЬ</a>
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End home-about Area -->
 
 			<!-- Start feature Area -->
 			<section class="feature-area section-gap">

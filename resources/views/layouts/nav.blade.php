@@ -18,7 +18,7 @@
 				          <!--</li>						          -->
 				          <li><a href="/contact">Контакты</a></li>
 				          <li><a href="/infos">Положения</a></li>
-				          <li><a href="https://smenait2018.ru/register" target="_blank">Регистрация</a></li>
+				          <!-- <li><a href="https://smenait2018.ru/register" target="_blank">Регистрация</a></li> -->
 				        </ul>
 				      </nav>		    		
 			    	</div>
