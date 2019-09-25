@@ -91,6 +91,18 @@ ul {
     width: 165px;
 }
 
+.logo {
+    color: white;
+    font-size: 22px;
+    letter-spacing: 4px;
+    font-family: "Poppins", sans-serif;
+}
+
+.logo:hover {
+    color: white;
+    font-weight: 900;
+}
+
 .head_h1 {
     font-size: 35px !important;
 }

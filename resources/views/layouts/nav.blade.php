@@ -2,7 +2,7 @@
 			    <div class="container main-menu">
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="/"><img src="assets/img/logo.png" class="logo_img" alt="" title="" /></a>
+				        <a href="/" class="logo">ITSTARTUFO</a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
