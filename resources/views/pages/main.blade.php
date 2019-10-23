@@ -14,6 +14,7 @@
 								Познакомьтесь с нашей деятельностью поближе
 							</p>
 							<a href="/about" class="primary-btn header-btn text-uppercase">Подробнее</a>
+							<p class="p_eclips">15-17 ноября г. Майкоп</p>
 							</div>
 						<div class="">
 							<img class="img_area" src="assets/img/logo2.png" alt="">

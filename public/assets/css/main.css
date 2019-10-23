@@ -4111,6 +4111,10 @@ body.mobile-nav-active #mobile-nav-toggle {
     flex: 0 0 43%;
 }
 
+.p_eclips {
+    display: none;
+}
+
 @media screen and (max-width:992px) {
     .head_h1_span {
         font-size: 20px;
@@ -4288,7 +4292,7 @@ body.mobile-nav-active #mobile-nav-toggle {
         text-align: center;
     }
     .eclps {
-        top: 36em;
+        display: none;
     }
     .home_prem_text {
         font-size: 19px;
@@ -4298,6 +4302,15 @@ body.mobile-nav-active #mobile-nav-toggle {
         color: #000000;
         font-weight: 900;
         margin-top: 125px;
+    }
+    .p_eclips {
+        display: block;
+        font-size: 36px;
+        line-height: 43px;
+        color: #000000;
+        font-weight: 900;
+        text-align: center;
+        margin-top: 70px;
     }
 }
 
