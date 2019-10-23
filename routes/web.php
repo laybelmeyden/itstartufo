@@ -18,12 +18,15 @@ Route::get('/news', 'MainController@news');
 Route::get('/photo', 'MainController@photo');
 Route::get('/contact', 'MainController@contact');
 Route::get('/infos', 'MainController@infos');
+Route::get('/programm', 'MainController@programm');
 
 Route::get('/thenewsolo{solo}', 'MainController@thenewsolo');
 
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::post('/footer', 'MainController@footer');
 
 
 Route::group(['prefix' => 'admin'], function () {

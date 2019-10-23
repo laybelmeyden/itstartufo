@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>{{ $new_title or 'ITStartUFO' }}</title>
+  <title>ITStartUFO</title>
   <!--meta-->
   <meta charset="UTF-8">
   <META NAME="AUTHOR" CONTENT="https://vk.com/glrlcocks">
@@ -11,9 +11,9 @@
     
   <!--соц сети-->
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="{{ $new_title or 'ITStartUFO' }}" />
-  <meta property="og:description" content="{{ $meta or 'ITStartUFO' }}" />
-  <meta property="og:image" href="storage/{{ $new_img or 'assets/img/air_fav.png' }}" content="storage/{{ $new_img or 'assets/img/air_fav.png' }}"  />
+  <meta property="og:title" content="МОЛОДЕЖНАЯ ШКОЛА РАЗВИТИЯ ЦИФРОВЫХ КОМПЕТЕНЦИЙ ЮЖНОГО ФЕДЕРАЛЬНОГО ОКРУГА" />
+  <meta property="og:description" content="МОЛОДЕЖНАЯ ШКОЛА РАЗВИТИЯ ЦИФРОВЫХ КОМПЕТЕНЦИЙ ЮЖНОГО ФЕДЕРАЛЬНОГО ОКРУГА" />
+  <meta property="og:image" href="assets/img/Logo.png" content="assets/img/Logo.png"  />
   <meta property="og:url" content="ccskm" />
   <meta property="og:site_name" content="AIR" />
 

@@ -45,6 +45,10 @@ class MainController extends Controller
     {
       return view('pages.infos');
     }
+    public function programm()
+    {
+      return view('pages.programm');
+    }
     
     
     public function thenewsolo(Thenews $solo)
@@ -54,4 +58,19 @@ class MainController extends Controller
 
       return view('pages.thenewsolo', compact('solo', 'new_title', 'new_img'));
     }
+    public function footer(Request $request)
+      {
+      $data= array(
+        'phone' => request('phone'),
+        'contact_email' => request('contact_email'),
+        'text_contact' => request('text_contact'),
+      );
+
+       \Mail::send('email.mailcontact', $data, function($message_contact) use ($data)
+    {
+        $mail_admin = env('MAIL_ADMIN_CONTACT');
+        $message_contact->from($data['contact_email'],$data['phone'], $data['text_contact']);
+        $message_contact->to($mail_admin, 'For Admin')->subject('Message from site');
+     });
+}
 }
