@@ -3,7 +3,7 @@
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
 				        <a href="/" class="logo">
-						<img src="assets/img/Logo.png" alt="">
+						<img src="assets/img/224.png" alt="">
 						</a>
 				      </div>
 				      <nav id="nav-menu-container">
