@@ -13,7 +13,7 @@
   <meta property="og:type" content="article" />
   <meta property="og:title" content="МОЛОДЕЖНАЯ ШКОЛА РАЗВИТИЯ ЦИФРОВЫХ КОМПЕТЕНЦИЙ ЮЖНОГО ФЕДЕРАЛЬНОГО ОКРУГА" />
   <meta property="og:description" content="МОЛОДЕЖНАЯ ШКОЛА РАЗВИТИЯ ЦИФРОВЫХ КОМПЕТЕНЦИЙ ЮЖНОГО ФЕДЕРАЛЬНОГО ОКРУГА" />
-  <meta property="og:image" href="assets/img/224.png" content="assets/img/224.png"  />
+  <meta property="og:image" content="https://itstartufo.ru/storage/50BxK4MwYFkZzvShiH89sGTorMcCKVi4a9pgtgrp.png"  />
   <meta property="og:url" content="ccskm" />
   <meta property="og:site_name" content="AIR" />
 

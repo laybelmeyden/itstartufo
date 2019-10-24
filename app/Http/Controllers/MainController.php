@@ -72,5 +72,6 @@ class MainController extends Controller
         $message_contact->from($data['contact_email'],$data['phone'], $data['text_contact']);
         $message_contact->to($mail_admin, 'For Admin')->subject('Message from site');
      });
+     return redirect('/')->with('message', 'СПАСИБО ЗА ВАШУ АКТИВНОСТЬ И ИНТЕРЕС К КОНКУРСУ!');
 }
 }

@@ -3,14 +3,14 @@
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
 				        <a href="/" class="logo">
-						<img src="assets/img/224.png" alt="">
+						<img src="assets/img/shool_ufo_1.png" alt="">
 						</a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
 				          <li class="menu-active"><a href="/">Главная</a></li>
 				          <li><a href="/about">О мероприятии</a></li>
-				          <li><a href="/programm">программа</a></li>
+				          <li><a href="/">программа</a></li>
 				          <!-- <li><a href="/infos">ПОЛОЖЕНИЯ</a></li> -->
 				          <!--<li class="menu-has-children"><a href="">Blog</a>-->
 				          <!--  <ul>-->

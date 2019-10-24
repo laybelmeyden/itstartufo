@@ -10,14 +10,11 @@
 							Молодежная<br> школа <br>
 							</h1>
 							<span class="head_h1_span">развития цифровых компетенций <br>Южного федерального округа</span>	
-							<p class="down_text_main">
-								Познакомьтесь с нашей деятельностью поближе
-							</p>
-							<a href="/about" class="primary-btn header-btn text-uppercase">Подробнее</a>
+							<a href="/about" class="primary-btn header-btn text-uppercase">УЧАСТВОВАТЬ</a>
 							<p class="p_eclips">15-17 ноября г. Майкоп</p>
 							</div>
 						<div class="">
-							<img class="img_area" src="assets/img/logo2.png" alt="">
+							<img class="img_area" src="assets/img/Group24right.png" alt="">
 						</div>												
 						<div class="eclps">
 							<p class="main_nav_text">
@@ -28,7 +25,7 @@
 			</section>
 			<!-- End banner Area -->
 <!-- Start home-about Area -->
-<section class="home-about-area">
+<section class="home-about-area-1">
 				<div class="grey_back">
 					<p class="about_text">
 					Молодежная школа развития цифровых компетенций Южного федерального округа — это три дня интенсивного обучения и практических занятий по уникальным методикам, разработанным экспертами и тренерами всероссийской программы развития технологического предпринимательства в молодежной среде
@@ -40,7 +37,7 @@
 				</div>
 				<div class="nominations">
 					<div class="grid_nominations">
-					<div>
+					<div >
 					<img src="assets/img/Group4.png">
 					<p>VR-технологии</p>
 					</div>
@@ -65,7 +62,6 @@
 			</section>
 			<!-- End home-about Area -->
 			<section class="home-about-area">
-				<div class="container-fluid">
 					<div class="row row_img">
 						<div class="col-lg-6 no-padding col_1">
 							<img src="assets/img/Group28.png" alt="" class="img_1">
@@ -73,10 +69,10 @@
 						<div class="col-lg-6 no-padding">
 						<p class="home_text_1"><b>УЧАСТНИКИ ШКОЛЫ</b></p>
 						<p class="home_text_2">это молодые люди, в возрасте <b>16-30 лет</b>, интересующиеся цифровыми технологиями</p>
-						<a href="/about" class="primary-btn header-btn text-uppercase">УЧАСТВОВАТЬ</a>
+						<a href="/about" class="primary-btn header-btn text-uppercase btn-3" 
+						style="">УЧАСТВОВАТЬ</a>
 						</div>
 					</div>
-				</div>	
 				<p class="home_prem_text"><span>7 причин</span> прийти на Молодежную школу <br>развития цифровых компетенций ЮФО</p>
 				<div class="home_grid">
 					<div class="home_grid_1">
@@ -127,7 +123,14 @@
 					</div>
 				</div>
 				<div class="aling-center">
-				<a href="/about" class="primary-btn header-btn text-uppercase" style="background:black; color:white; margin-bottom:54px;">УЧАСТВОВАТЬ</a>
+				<a href="/about" class="primary-btn header-btn text-uppercase btn-2" 
+				style="
+">УЧАСТВОВАТЬ</a>
+				<a href="https://vk.com/doc103679594_520039442?hash=82840e202cd2ad5c7e&dl=e82d448cf3e824c4b0" 
+				class="primary-btn header-btn text-uppercase btn-1" style="">
+<img src="assets/img/download1.png" alt="" style="position: relative;
+    left: -10px;">
+СКАЧАТЬ ПОЛОЖЕНИЕ</a>
 				</div>
 			</section>
 			<section>
@@ -166,7 +169,7 @@
 								<div class="details">
 									<h4>АРТЕМ КРИЦЫН</h4>
 									<p>
-									Руководитель бэк-энд разработки в креативном агентстве SVMD 
+									И.о. директора ФГБУ «Координационный центр Межправительственной комиссии по сотрудничеству в области вычислительной техники» 
 									</p>
 								</div>
 							</div>
@@ -177,9 +180,9 @@
 									<img src="assets/img/Intersect3.png" alt="" class="img-fluid">
 								</div>
 								<div class="details">
-									<h4>Станислав Сахаров </h4>
+									<h4>Андрей Поскряков </h4>
 									<p>
-									Руководитель программы IT-Start 
+									Специалист по клиентоориентированности 
 									</p>
 								</div>
 							</div>
@@ -190,9 +193,9 @@
 									<img src="assets/img/Intersect4.png" alt="" class="img-fluid">
 								</div>
 								<div class="details">
-									<h4>Матвей Бебенин</h4>
+									<h4>Станислав Сахаров</h4>
 									<p>
-									Руководитель бэк-энд разработки в креативном агентстве SVMD 
+									Руководитель программы IT-Start
 									</p>
 								</div>
 							</div>

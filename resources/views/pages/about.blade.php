@@ -14,7 +14,7 @@
 <p class="info_text_2">Особенностью программы, ориентированной на молодых людей в возрасте 
 16-30 лет является изучение и практическое применение цифровых технологий, 
 прописанных в национальном проекте <span>«Цифровая экономика РФ»: VR, AR, Big data, «умный город», «интернет вещей»</span></p>
-<div class="grey_rectagle">
+<div class="grey_rectagle" style="    width: 772px; margin-bottom: 16px;">
 <p>В процессе обучения участникам будет предложено на выбор несколько кейсов, в которых смоделированы различные жизненные и профессиональные ситуации, решить которые предлагается с использованием современных цифровых технологий. Так же предусмотрена возможность продолжить работу над собственным проектом.</p>
 </div>
 <p class="info_text_3">
@@ -28,7 +28,21 @@
 </p>
 </div>
 	<div class="aling-center">
-					<a href="/about" class="primary-btn header-btn text-uppercase" style="background:black; color:white; margin-bottom:54px;">УЧАСТВОВАТЬ</a>
+					<a href="/about" class="primary-btn header-btn text-uppercase" 
+					style="background:black; color:white;    background: black;margin-bottom: 40px;
+    width: 389px;
+    height: 92px;
+    position: relative;
+    top: -10px;
+    left: 10px;
+    font-family: 'lato';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.2em;
+    color: #FFFFFF;"
+					>УЧАСТВОВАТЬ</a>
 					</div>
 </div>
 </section>
