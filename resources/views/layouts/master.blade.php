@@ -8,6 +8,7 @@
   <META NAME="AUTHOR" CONTENT="https://vk.com/glrlcocks">
   <meta name="revisit-after" content="5 days">
   <link rel="SHORTCUT ICON" href="assets/img/air_fav.png" type="image/x-icon">
+  <link rel="image_src" href="https://itstartufo.ru/storage/50BxK4MwYFkZzvShiH89sGTorMcCKVi4a9pgtgrp.png" />
     
   <!--соц сети-->
   <meta property="og:type" content="article" />
