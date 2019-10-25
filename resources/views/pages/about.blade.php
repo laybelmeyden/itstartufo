@@ -28,7 +28,7 @@
 </p>
 </div>
 	<div class="aling-center">
-					<a href="/about" class="primary-btn header-btn text-uppercase" 
+					<a data-toggle="modal" data-target="#exampleModal" class="primary-btn header-btn text-uppercase" 
 					style="background:black; color:white;    background: black;margin-bottom: 40px;
     width: 389px;
     height: 92px;
@@ -46,6 +46,20 @@
 					</div>
 </div>
 </section>
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header" style="border-bottom:0px;">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p class="text_1">Регистрация будет доступна в ближайшее время</p>
+      </div>
+    </div>
+  </div>
+</div>
 <section>
 				<div class="maps">
 					<p><span>15-17 ноября 2019 г.</span><br><br> г. Майкоп (Республика Адыгея), Майкопский государственный технологический университет</p>

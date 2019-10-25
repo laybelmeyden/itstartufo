@@ -10,7 +10,7 @@
 							Молодежная<br> школа <br>
 							</h1>
 							<span class="head_h1_span">развития цифровых компетенций <br>Южного федерального округа</span>	
-							<a href="/about" class="primary-btn header-btn text-uppercase">УЧАСТВОВАТЬ</a>
+							<a data-toggle="modal" data-target="#exampleModal" class="primary-btn header-btn text-uppercase">УЧАСТВОВАТЬ</a>
 							<p class="p_eclips">15-17 ноября г. Майкоп</p>
 							</div>
 						<div class="">
@@ -69,10 +69,24 @@
 						<div class="col-lg-6 no-padding">
 						<p class="home_text_1"><b>УЧАСТНИКИ ШКОЛЫ</b></p>
 						<p class="home_text_2">это молодые люди, в возрасте <b>16-30 лет</b>, интересующиеся цифровыми технологиями</p>
-						<a href="/about" class="primary-btn header-btn text-uppercase btn-3" 
+						<a class="primary-btn header-btn text-uppercase btn-3" data-toggle="modal" data-target="#exampleModal" 
 						style="">УЧАСТВОВАТЬ</a>
 						</div>
 					</div>
+					<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header" style="border-bottom:0px;">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p class="text_1">Регистрация будет доступна в ближайшее время</p>
+      </div>
+    </div>
+  </div>
+</div>
 				<p class="home_prem_text"><span>7 причин</span> прийти на Молодежную школу <br>развития цифровых компетенций ЮФО</p>
 				<div class="home_grid">
 					<div class="home_grid_1">
@@ -123,7 +137,7 @@
 					</div>
 				</div>
 				<div class="aling-center">
-				<a href="/about" class="primary-btn header-btn text-uppercase btn-2" 
+				<a data-toggle="modal" data-target="#exampleModal" class="primary-btn header-btn text-uppercase btn-2" 
 				style="
 ">УЧАСТВОВАТЬ</a>
 				<a href="https://vk.com/doc103679594_520039442?hash=82840e202cd2ad5c7e&dl=e82d448cf3e824c4b0" 
