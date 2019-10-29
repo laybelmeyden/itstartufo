@@ -83,7 +83,18 @@
       </div>
       <div class="modal-body">
         <p class="text_1">1. Регистрация на портале АИС "Молодежь"
-		<a href="https://myrosmol.ru/auth/login?redirect=https%3A%2F%2Fmyrosmol.ru%2Fevent%2F36431">Регистрация</a>
+        <a href="https://myrosmol.ru/auth/login?redirect=https%3A%2F%2Fmyrosmol.ru%2Fevent%2F36431" class="primary-btn header-btn text-uppercase" 
+					style="    color: black !important;
+    margin-bottom: 40px;
+    width: 100%;
+    height: 92px;
+    font-family: 'lato';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.2em;"
+					>РЕГИСТРАЦИЯ</a>
 		</p>
 		<p class="text_1">2. Подать заявку на мероприятие </p>
       </div>
