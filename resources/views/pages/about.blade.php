@@ -56,7 +56,7 @@
       </div>
       <div class="modal-body">
         <p class="text_1">1. Регистрация на портале АИС "Молодежь"
-        <a href="https://myrosmol.ru/auth/login?redirect=https%3A%2F%2Fmyrosmol.ru%2Fevent%2F36431" class="primary-btn header-btn text-uppercase" 
+        <a href="https://myrosmol.ru/event/36431" class="primary-btn header-btn text-uppercase" 
 					style="    color: black !important;
     margin-bottom: 40px;
     width: 100%;
