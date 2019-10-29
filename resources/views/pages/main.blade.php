@@ -82,7 +82,10 @@
         </button>
       </div>
       <div class="modal-body">
-        <p class="text_1">Регистрация будет доступна в ближайшее время</p>
+        <p class="text_1">1. Регистрация на портале АИС "Молодежь"
+		<a href="https://myrosmol.ru/auth/login?redirect=https%3A%2F%2Fmyrosmol.ru%2Fevent%2F36431">Регистрация</a>
+		</p>
+		<p class="text_1">2. Подать заявку на мероприятие </p>
       </div>
     </div>
   </div>
