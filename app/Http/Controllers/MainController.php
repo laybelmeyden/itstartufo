@@ -56,7 +56,7 @@ class MainController extends Controller
       isset($solo->seo_title) ? $new_title = $solo->seo_title : $new_title = "AIR";
       isset($solo->image) ? $img = $solo->image: $img = 'storage/{{ $allnew->new_img }}';
 
-      return view('pages.thenewsolo', compact('solo', 'new_title', 'new_img'));
+      return view('pages.thenewsolo', compact('solo'));
     }
     public function footer(Request $request)
       {

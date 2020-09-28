@@ -9,8 +9,10 @@
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
 				          <li class="menu-active"><a href="/">Главная</a></li>
-				          <li><a href="/about">О мероприятии</a></li>
-				          <li><a href="https://vk.com/doc22052708_525314943?hash=e04be5cf6ceb4f8b61&dl=ff65791fd9563faa15">программа</a></li>
+						  <li><a href="/about">О мероприятии</a></li>
+						  <li><a href="/news">Новости</a></li>
+						  <li><a href="/photo">Фото</a></li>
+				          <!-- <li><a href="https://vk.com/doc22052708_525314943?hash=e04be5cf6ceb4f8b61&dl=ff65791fd9563faa15">программа</a></li> -->
 				          <!-- <li><a href="/infos">ПОЛОЖЕНИЯ</a></li> -->
 				          <!--<li class="menu-has-children"><a href="">Blog</a>-->
 				          <!--  <ul>-->

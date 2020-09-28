@@ -7,9 +7,9 @@
 				<div class="left_img"></div>
 							<div class="banner-content">
 							<h1 class="head_h1">
-							Молодежная<br> школа <br>
+							«Окружная школа цифровых технологий «Digital Lab»»
 							</h1>
-							<span class="head_h1_span">развития цифровых компетенций <br>Южного федерального округа</span>	
+							<!-- <span class="head_h1_span">«Окружная школа цифровых технологий «Digital Lab»»</span>	 -->
 							<a data-toggle="modal" data-target="#exampleModal" class="primary-btn header-btn text-uppercase">УЧАСТВОВАТЬ</a>
 							<p class="p_eclips">15-17 ноября г. Майкоп</p>
 							</div>
@@ -18,7 +18,7 @@
 						</div>												
 						<div class="eclps">
 							<p class="main_nav_text">
-							15-17 ноября <br> г. Майкоп
+							27-29 ноября <br> г. Майкоп
 							</p>
 						<img class="img_area_two" src="assets/img/Ellipse3.png" alt="">
 						</div>
@@ -28,12 +28,12 @@
 <section class="home-about-area-1">
 				<div class="grey_back">
 					<p class="about_text">
-					Молодежная школа развития цифровых компетенций Южного федерального округа — это три дня интенсивного обучения и практических занятий по уникальным методикам, разработанным экспертами и тренерами всероссийской программы развития технологического предпринимательства в молодежной среде
+					Данный проект направлен не только на развитие надпрофессиональных навыков молодежи, увлекающуюся проектной деятельностью, но и на социализацию.
 					</p>
 				</div>
 				<div class="opis_1">
-				<p class="text_1">Особенностью программы, ориентированной на молодых людей в возрасте <b>16-30 лет</b> <br>является изучение и практическое применение цифровых технологий, прописанных в</p>
-				<p class="text_2">национальном проекте «Цифровая экономика РФ»</p>
+				<p class="text_1">Основная цель - Поддержка молодых социально-активных людей, стремящихся создавать проекты (онлайн сервисы), с использованием цифровых технологий,</p>
+				<p class="text_2">развитие цифровых компетенций у молодежи.</p>
 				</div>
 				<div class="nominations">
 					<div class="grid_nominations">
@@ -68,7 +68,7 @@
 						</div>
 						<div class="col-lg-6 no-padding">
 						<p class="home_text_1"><b>УЧАСТНИКИ ШКОЛЫ</b></p>
-						<p class="home_text_2">это молодые люди, в возрасте <b>16-30 лет</b>, интересующиеся цифровыми технологиями</p>
+						<p class="home_text_2">это молодые люди, в возрасте <b>16-35 лет</b>, интересующиеся цифровыми технологиями</p>
 						<a class="primary-btn header-btn text-uppercase btn-3" data-toggle="modal" data-target="#exampleModal" 
 						style="">УЧАСТВОВАТЬ</a>
 						</div>
@@ -82,7 +82,8 @@
         </button>
       </div>
       <div class="modal-body">
-        <p class="text_1">1. Регистрация на портале АИС "Молодежь"
+		  <p class="text_1">Регистрация откроется в ближайшее время</p>
+        <!-- <p class="text_1">1. Регистрация на портале АИС "Молодежь"
         <a href="https://myrosmol.ru/event/36431" class="primary-btn header-btn text-uppercase" 
 					style="    color: black !important;
     margin-bottom: 40px;
@@ -96,12 +97,12 @@
     letter-spacing: 0.2em;"
 					>РЕГИСТРАЦИЯ</a>
 		</p>
-		<p class="text_1">2. Подать заявку на мероприятие </p>
+		<p class="text_1">2. Подать заявку на мероприятие </p> -->
       </div>
     </div>
   </div>
 </div>
-				<p class="home_prem_text"><span>7 причин</span> прийти на Молодежную школу <br>развития цифровых компетенций ЮФО</p>
+				<p class="home_prem_text"><span>7 причин</span> прийти на «ОКРУЖНУЮ ШКОЛУ ЦИФРОВЫХ ТЕХНОЛОГИЙ «DIGITAL LAB»»</p>
 				<div class="home_grid">
 					<div class="home_grid_1">
 						<div class="flex_home">
@@ -134,23 +135,18 @@
 						<div> 
 							<img src="assets/img/Group33.png" alt="">
 						</div>
-							<p>Победитель окружной школы получает тревел-грант в форме международной образовательной стажировки в Израиль</p>
-					</div>
-					<div class="flex_home">
-						<div>
-							<img src="assets/img/Group34.png" alt="">
-						</div>
 							<p>Ценные призы и подарки для победителей</p>
 					</div>
 					<div class="flex_home">
 						<div>
-							<img src="assets/img/Group35.png" alt="">
+							<img src="assets/img/Group34.png" alt="">
 						</div>
 							<p>БЕСПЛАТНОЕ проживание для иногородних участников! (обеспечение проживания для 30-ти иногородних участников)</p>
 					</div>
 					</div>
 				</div>
 				<div class="aling-center">
+					
 				<a data-toggle="modal" data-target="#exampleModal" class="primary-btn header-btn text-uppercase btn-2" 
 				style="
 ">УЧАСТВОВАТЬ</a>
@@ -247,7 +243,7 @@
 			<!-- End products Area -->
 			
 			<!-- Start blog Area -->
-			<!-- <section class="blog-area section-gap">
+			<section class="blog-area section-gap">
 				<div class="container">
 					<div class="row d-flex justify-content-center">
 						<div class="col-md-12 pb-40 header-text text-center">
@@ -277,6 +273,6 @@
 						
 					</div>
 				</div>	
-			</section> -->
+			</section>
 
 @endsection
