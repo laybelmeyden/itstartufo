@@ -3,7 +3,7 @@
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
 				        <a href="/" class="logo">
-						<img src="assets/img/shool_ufo_1.svg" alt="">
+						<img src="assets/img/kQyyvG61o8s.png" alt="" style="    height: 70px;">
 						</a>
 				      </div>
 				      <nav id="nav-menu-container">

@@ -102,7 +102,7 @@
     </div>
   </div>
 </div>
-				<p class="home_prem_text"><span>7 причин</span> прийти на «ОКРУЖНУЮ ШКОЛУ ЦИФРОВЫХ ТЕХНОЛОГИЙ «DIGITAL LAB»»</p>
+				<p class="home_prem_text"><span>6 причин</span> прийти на «ОКРУЖНУЮ ШКОЛУ ЦИФРОВЫХ ТЕХНОЛОГИЙ «DIGITAL LAB»»</p>
 				<div class="home_grid">
 					<div class="home_grid_1">
 						<div class="flex_home">
@@ -150,16 +150,16 @@
 				<a data-toggle="modal" data-target="#exampleModal" class="primary-btn header-btn text-uppercase btn-2" 
 				style="
 ">УЧАСТВОВАТЬ</a>
-				<a href="https://vk.com/doc103679594_520039442?hash=82840e202cd2ad5c7e&dl=e82d448cf3e824c4b0" 
+				<!-- <a href="https://vk.com/doc103679594_520039442?hash=82840e202cd2ad5c7e&dl=e82d448cf3e824c4b0" 
 				class="primary-btn header-btn text-uppercase btn-1" style="">
 <img src="assets/img/download1.png" alt="" style="position: relative;
     left: -10px;">
-СКАЧАТЬ ПОЛОЖЕНИЕ</a>
+СКАЧАТЬ ПОЛОЖЕНИЕ</a> -->
 				</div>
 			</section>
 			<section>
 				<div class="maps">
-					<p><span>15-17 ноября 2019 г.</span><br><br> г. Майкоп (Республика Адыгея), Майкопский государственный технологический университет</p>
+					<p><span>27-29 ноября 2020 г.</span><br><br> г. Майкоп (Республика Адыгея), Майкопский государственный технологический университет</p>
 				</div>	
 				<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A28e6ea3898e566d0e041360a743e79ba34f173c17a9c94321eb4ff2fba79d793&amp;source=constructor" width="100%" height="350" frameborder="0"></iframe>
 			</section>
@@ -180,7 +180,7 @@
 								<div class="details">
 									<h4>Матвей Бебенин</h4>
 									<p>
-									Full stack разработчик в Rutube
+									Менеджер продукта
 									</p>
 								</div>
 							</div>
