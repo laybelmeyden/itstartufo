@@ -19,6 +19,7 @@
 	<div class="container">
 	<div class="row">
 		<div class="col-lg-12">
+			<p class="info_text_1">Окружная Школа в 2019 году</p>
 			<div id="grid-gallery" class="grid-gallery">
 				<section class="grid-wrap">
 					<ul class="grid">

@@ -7,11 +7,11 @@
 				<div class="left_img"></div>
 							<div class="banner-content">
 							<h1 class="head_h1">
-							«Окружная школа цифровых технологий «Digital Lab»»
+							Окружная школа цифровых технологий «Digital Lab»
 							</h1>
 							<!-- <span class="head_h1_span">«Окружная школа цифровых технологий «Digital Lab»»</span>	 -->
 							<a data-toggle="modal" data-target="#exampleModal" class="primary-btn header-btn text-uppercase">УЧАСТВОВАТЬ</a>
-							<p class="p_eclips">15-17 ноября г. Майкоп</p>
+							<p class="p_eclips">27-29 ноября г. Майкоп</p>
 							</div>
 						<div class="">
 							<img class="img_area" src="assets/img/Group24right.png" alt="">
@@ -27,9 +27,9 @@
 <!-- Start home-about Area -->
 <section class="home-about-area-1">
 				<div class="grey_back">
-					<p class="about_text">
+					<!-- <p class="about_text">
 					Данный проект направлен не только на развитие надпрофессиональных навыков молодежи, увлекающуюся проектной деятельностью, но и на социализацию.
-					</p>
+					</p> -->
 				</div>
 				<div class="opis_1">
 				<p class="text_1">Основная цель - Поддержка молодых социально-активных людей, стремящихся создавать проекты (онлайн сервисы), с использованием цифровых технологий,</p>
@@ -68,7 +68,7 @@
 						</div>
 						<div class="col-lg-6 no-padding">
 						<p class="home_text_1"><b>УЧАСТНИКИ ШКОЛЫ</b></p>
-						<p class="home_text_2">это молодые люди, в возрасте <b>16-35 лет</b>, интересующиеся цифровыми технологиями</p>
+						<p class="home_text_2">это молодые люди, в возрасте <b>16-30 лет</b>, интересующиеся цифровыми технологиями</p>
 						<a class="primary-btn header-btn text-uppercase btn-3" data-toggle="modal" data-target="#exampleModal" 
 						style="">УЧАСТВОВАТЬ</a>
 						</div>
@@ -102,7 +102,7 @@
     </div>
   </div>
 </div>
-				<p class="home_prem_text"><span>6 причин</span> прийти на «ОКРУЖНУЮ ШКОЛУ ЦИФРОВЫХ ТЕХНОЛОГИЙ «DIGITAL LAB»»</p>
+				<p class="home_prem_text"><span>6 причин</span> прийти на ОКРУЖНУЮ ШКОЛУ<br> ЦИФРОВЫХ ТЕХНОЛОГИЙ «DIGITAL LAB»</p>
 				<div class="home_grid">
 					<div class="home_grid_1">
 						<div class="flex_home">
@@ -123,14 +123,15 @@
 						</div>
 							<p>Деловой нетворкинг. Именно на таком мероприятии Вы сможете найти партнеров и единомышленников</p>
 					</div>
+				
+					</div>
+					<div class="home_grid_2">
 					<div class="flex_home">
 						<div>
 							<img src="assets/img/Group32.png" alt="">
 						</div>
 							<p>Аудит технологических проектов и помощь в подготовке заявок на получение проектного финансирования</p>
 					</div>
-					</div>
-					<div class="home_grid_2">
 						<div class="flex_home">
 						<div> 
 							<img src="assets/img/Group33.png" alt="">
