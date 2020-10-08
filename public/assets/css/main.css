@@ -678,6 +678,11 @@ th {
     color: #000000;
 }
 
+.img_overf {
+    max-height: 300px;
+    overflow: hidden;
+}
+
 .home_prem_text span {
     background: #F9D904;
     font-weight: 900;
