@@ -679,8 +679,12 @@ th {
 }
 
 .img_overf {
-    max-height: 300px;
     overflow: hidden;
+    background-image: url(https://itstartufo2020.ru/storage/thenews/October2020/towmcYyjiFTGNoLrgERA.jpg);
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .home_prem_text span {
