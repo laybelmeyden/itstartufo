@@ -259,8 +259,8 @@
 						@foreach ($thenews as $thenew)
 						<div class="col-lg-4 col-md-4 blog-left">
 							<a href="/thenewsolo{{ $thenew->id }}">
-							<div class="thumb img_overf">
-								<img class="img-fluid" src="storage/{{ $thenew->new_img }}" alt="">
+							<div class="thumb img_overf" style="background-image: url(storage/{{ $thenew->new_img }});">
+								<!-- <img class="img-fluid" src="storage/{{ $thenew->new_img }}" alt=""> -->
 							</div>
 							<div class="detais">
 								<ul class="tags">
