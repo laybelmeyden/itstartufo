@@ -17,9 +17,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4 col-md-12 blog-left">
-				<div class="thumb img_overf" style="background-image: url(https://itstartufo2020.ru/storage/{{ $thenew->new_img }});">
-								<!-- <img class="img-fluid" src="storage/{{ $thenew->new_img }}" alt=""> -->
-							</div>
+					<div class="thumb">
+						<img class="img-fluid" src="storage/{{ $solo->new_img }}" alt="">
+					</div>
 				</div>
 				<div class="col-lg-8 col-md-12 blog-left">
 					<div class="thumb">
