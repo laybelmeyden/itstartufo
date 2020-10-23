@@ -181,7 +181,7 @@
 								<div class="details">
 									<h4>Матвей Бебенин</h4>
 									<p>
-									Менеджер продукта
+									Менеджер продукта Сбер
 									</p>
 								</div>
 							</div>
@@ -248,7 +248,7 @@
 				<div class="container">
 					<div class="row d-flex justify-content-center">
 						<div class="col-md-12 pb-40 header-text text-center">
-							<h1 class="pb-10">Последниее новости</h1>
+							<h1 class="pb-10">Последние новости</h1>
 							<p>
 								Самые свежие новости о старте !
 							</p>
