@@ -7,18 +7,18 @@
 				<div class="left_img"></div>
 							<div class="banner-content">
 							<h1 class="head_h1">
-							Окружная школа цифровых технологий «Digital Lab»
+							Окружной фестиваль <br> интерактивных технологий <br> «Шаг в будущее»
 							</h1>
 							<!-- <span class="head_h1_span">«Окружная школа цифровых технологий «Digital Lab»»</span>	 -->
 							<a data-toggle="modal" data-target="#exampleModal" class="primary-btn header-btn text-uppercase">УЧАСТВОВАТЬ</a>
-							<p class="p_eclips">27-29 ноября г. Майкоп</p>
+							<p class="p_eclips">27-29 октября г. Майкоп</p>
 							</div>
 						<div class="">
 							<img class="img_area" src="assets/img/Group24right.png" alt="">
 						</div>												
 						<div class="eclps">
 							<p class="main_nav_text">
-							27-29 ноября <br> г. Майкоп
+							22 - 24 октября <br> г. Майкоп
 							</p>
 						<img class="img_area_two" src="assets/img/Ellipse3.png" alt="">
 						</div>
@@ -32,8 +32,8 @@
 					</p> -->
 				</div>
 				<div class="opis_1">
-				<p class="text_1">Основная цель - Поддержка молодых социально-активных людей, стремящихся создавать проекты (онлайн сервисы), с использованием цифровых технологий,</p>
-				<p class="text_2">развитие цифровых компетенций у молодежи.</p>
+				<p class="text_1">Основная цель -  профессиональная ориентация молодых людей в сфере высоких интерактивных и цифровых технологий; развитие специальных навыков (компетенций)</p>
+				<p class="text_2">в сфере интерактивных, цифровых технологий.</p>
 				</div>
 				<div class="nominations">
 					<div class="grid_nominations">
@@ -47,15 +47,15 @@
 					</div>
 					<div>
 					<img src="assets/img/Group6.png">
-					<p>Big data</p>
+					<p>3D моделирование</p>
 					</div>
-					<div>
+					<!-- <div>
 					<img src="assets/img/Group7.png">
 					<p>Умный город</p>
-					</div>
+					</div> -->
 					<div>
 					<img src="assets/img/Group26.png">
-					<p>Интернет вещей</p>
+					<p>Спортивное пилотирование</p>
 					</div>
 					</div>
 				</div>
@@ -67,8 +67,8 @@
 							<img src="assets/img/Group28.png" alt="" class="img_1">
 						</div>
 						<div class="col-lg-6 no-padding">
-						<p class="home_text_1"><b>УЧАСТНИКИ ШКОЛЫ</b></p>
-						<p class="home_text_2">это молодые люди, в возрасте <b>16-30 лет</b>, интересующиеся цифровыми технологиями</p>
+						<p class="home_text_1"><b>УЧАСТНИКИ ФЕСТИВАЛЯ</b></p>
+						<p class="home_text_2">это старшеклассники, студенты, аспиранты в возрасте <b>16-30 лет</b>, увлекающиеся современными интерактивными технологиями</p>
 						<a class="primary-btn header-btn text-uppercase btn-3" data-toggle="modal" data-target="#exampleModal" 
 						style="">УЧАСТВОВАТЬ</a>
 						</div>
@@ -82,8 +82,8 @@
         </button>
       </div>
       <div class="modal-body">
-		  <!-- <p class="text_1">Регистрация откроется в ближайшее время</p> -->
-        <p class="text_1">1. Регистрация на портале АИС "Молодежь"
+		  <p class="text_1">Регистрация откроется в ближайшее время</p>
+        <!-- <p class="text_1">1. Регистрация на портале АИС "Молодежь"
         <a href="https://myrosmol.ru/event/51364" class="primary-btn header-btn text-uppercase" 
 					style="    color: black !important;
     margin-bottom: 40px;
@@ -97,31 +97,31 @@
     letter-spacing: 0.2em;"
 					>РЕГИСТРАЦИЯ</a>
 		</p>
-		<p class="text_1">2. Подать заявку на мероприятие </p>
+		<p class="text_1">2. Подать заявку на мероприятие </p> -->
       </div>
     </div>
   </div>
 </div>
-				<p class="home_prem_text"><span>6 причин</span> прийти на ОКРУЖНУЮ ШКОЛУ<br> ЦИФРОВЫХ ТЕХНОЛОГИЙ «DIGITAL LAB»</p>
+				<p class="home_prem_text"><span>6 причин</span> принять участие в Окружном фестивале <br> интерактивных технологий «Шаг в будущее»</p>
 				<div class="home_grid">
 					<div class="home_grid_1">
 						<div class="flex_home">
 						<div>
 							<img src="assets/img/Group29.png" alt="">
 						</div>
-							<p>Профильные эксперты из Москвы и никаких скучных лекций! Только практические мастер-классы и работа в малых группах</p>
+							<p>Профильные эксперты из Москвы и никаких скучных лекций! Только практические мастер-классы и работа в малых группах;</p>
 					</div>
 					<div class="flex_home">
 					<div>
 							<img src="assets/img/Group30.png" alt="">
 						</div>
-							<p>Возможность прокачать свой проект или придумать классную IT-идею</p>
+							<p>Возможность прокачать свой проект или придумать «классную» IT-идею;</p>
 					</div>
 					<div class="flex_home">
 						<div>
 							<img src="assets/img/Group31.png" alt="">
 						</div>
-							<p>Деловой нетворкинг. Именно на таком мероприятии Вы сможете найти партнеров и единомышленников</p>
+							<p>Деловой нетворкинг. Именно на таком мероприятии Вы сможете найти партнеров и единомышленников;</p>
 					</div>
 				
 					</div>
@@ -130,19 +130,19 @@
 						<div>
 							<img src="assets/img/Group32.png" alt="">
 						</div>
-							<p>Аудит технологических проектов и помощь в подготовке заявок на получение проектного финансирования</p>
+							<p>Аудит технологических проектов;</p>
 					</div>
 						<div class="flex_home">
 						<div> 
 							<img src="assets/img/Group33.png" alt="">
 						</div>
-							<p>Ценные призы и подарки для победителей</p>
+							<p>Ценные призы и подарки для победителей финальной презентационной сессии.</p>
 					</div>
 					<div class="flex_home">
 						<div>
 							<img src="assets/img/Group34.png" alt="">
 						</div>
-							<p>БЕСПЛАТНОЕ проживание для иногородних участников! (обеспечение проживания для 30-ти иногородних участников)</p>
+							<p>БЕСПЛАТНОЕ проживание и питание для иногородних участников! (Места ограничены!)</p>
 					</div>
 					</div>
 				</div>
@@ -158,12 +158,7 @@
 СКАЧАТЬ ПОЛОЖЕНИЕ</a> -->
 				</div>
 			</section>
-			<section>
-				<div class="maps">
-					<p><span>27-29 ноября 2020 г.</span><br><br> г. Майкоп (Республика Адыгея), Майкопский государственный технологический университет</p>
-				</div>	
-				<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A28e6ea3898e566d0e041360a743e79ba34f173c17a9c94321eb4ff2fba79d793&amp;source=constructor" width="100%" height="350" frameborder="0"></iframe>
-			</section>
+			@include('pages.partners')
 			<!-- Start products Area -->
 			<section class="products-area section-gap">
 				<div class="container">

@@ -1,0 +1,92 @@
+.modal_alert {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+}
+
+#ucaht_1 {
+    padding-top: 20px;
+}
+
+.alert_title {
+    font-family: 'latob';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 62px !important;
+    text-transform: uppercase;
+    color: #000000;
+    margin-top: 66px !important;
+    margin-bottom: 43px;
+    text-align: center;
+}
+.visible {
+    display: block !important;
+}
+
+.alert_down {
+    font-family: 'latob';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 62px !important;
+    text-transform: uppercase;
+    color: #000000;
+    margin-top: 0px;
+    margin-bottom: 43px;
+    text-align: center;
+}
+
+#gallls {
+    padding-top: 90px;
+    .galls__title {
+        padding-top: 46px;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 30px;
+        text-transform: uppercase;
+        color: #a1a0cc;
+        padding-bottom: 46px;
+        font-family: "MuseoCyrl900";
+    }
+    #lightgallery {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-row-gap: 30px;
+        grid-column-gap: 30px;
+        a {
+            width: 100%;
+            height: 140px;
+            overflow: hidden;
+            img {
+                width: 100%;
+            }
+        }
+        padding-bottom: 90px;
+        .blur-up {
+            -webkit-filter: blur(5px);
+            filter: blur(5px);
+            transition: filter 400ms, -webkit-filter 400ms;
+        }
+        .blur-up.lazyloaded {
+            -webkit-filter: blur(0);
+            filter: blur(0);
+        }
+    }
+}
+@media screen and (max-width:1200px){
+    .eclps {
+        display: none;
+    }
+    #lightgallery{
+        grid-template-columns: 1fr 1fr !important;
+    }
+}
+@media screen and (max-width:992px){
+    .img_proggram_2{
+        height: 200px;
+        width: 400px;
+        top: 0;
+    }
+}

@@ -646,6 +646,7 @@ th {
 .home_grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    margin-bottom: 40px;
 }
 
 .home_grid p {
@@ -657,6 +658,9 @@ th {
 
 .home_grid_2 {
     margin-left: 58px;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
 }
 
 .flex_home {
@@ -723,7 +727,7 @@ th {
 
 .grid_nominations {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     justify-items: center;
 }
 
@@ -747,6 +751,10 @@ th {
 
 .grid_nominations div {
     padding: 0px 34px 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .fz-18 {

@@ -12,8 +12,8 @@
     
   <!--соц сети-->
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="МОЛОДЕЖНАЯ ШКОЛА РАЗВИТИЯ ЦИФРОВЫХ КОМПЕТЕНЦИЙ ЮЖНОГО ФЕДЕРАЛЬНОГО ОКРУГА" />
-  <meta property="og:description" content="МОЛОДЕЖНАЯ ШКОЛА РАЗВИТИЯ ЦИФРОВЫХ КОМПЕТЕНЦИЙ ЮЖНОГО ФЕДЕРАЛЬНОГО ОКРУГА" />
+  <meta property="og:title" content="Окружной фестиваль интерактивных технологий «Шаг в будущее», 27-29 октября г. Майкоп" />
+  <meta property="og:description" content="Окружной фестиваль интерактивных технологий «Шаг в будущее», 27-29 октября г. Майкоп" />
   <meta property="og:image" content="https://itstartufo.ru/storage/50BxK4MwYFkZzvShiH89sGTorMcCKVi4a9pgtgrp.png"  />
   <meta property="og:url" content="ccskm" />
   <meta property="og:site_name" content="AIR" />
@@ -29,6 +29,7 @@
 			<link rel="stylesheet" href="assets/css/owl.carousel.css">
 			<link rel="stylesheet" href="assets/css/main.css">
 			<link rel="stylesheet" type="text/css" href="assets/css/component.css" />
+			<link rel="stylesheet" type="text/css" href="css/mainscss.css" />
 			<script src="assets/js/modernizr.custom.js"></script>
 
   <!--Let browser know website is optimized for mobile-->
@@ -36,6 +37,17 @@
 </head>
 
 <body>
+@if(session('message'))
+  <div id="modalflat" class="modal modal-fixed-footer modal_alert visible" onclick="modal_main_toggle_close();">
+    <div class="modal-content">
+      <h4 class="alert_title">{{ session('message') }}</h4>
+      <p class="alert_down">{{ session('message_1') }}</p>
+    </div>
+    <div class="flert">
+      <a class="modal-close waves-effect waves-light btn-flat btn_ok" id="btn_ok">OK</a>
+    </div>
+  </div>
+  @endif
 @include('layouts.nav')
 @yield('content')
 @include('layouts.footer')

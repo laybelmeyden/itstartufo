@@ -3,7 +3,7 @@
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
 				        <a href="/" class="logo">
-						<img src="assets/img/Logo_Digital_Lab.png" alt="">
+						<img src="assets/img/Shag_v_buduschee.svg" alt="">
 						</a>
 				      </div>
 				      <nav id="nav-menu-container">
