@@ -226,13 +226,13 @@
 			<div class="partn">
 				<div class="grid_part">
 					<div>
-					<img src="assets/img/Logoair.png">
+					<img src="assets/img/Group223333.png">
 					</div>
 					<div>
 					<img src="assets/img/Frame312312.png">
 					</div>
 					<div>
-					<img src="assets/img/Group223333.png">
+					<img src="assets/img/Logoair.png">
 					</div>
 				</div>
 			</div>
