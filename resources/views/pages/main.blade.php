@@ -11,7 +11,7 @@
 		</h1>
 		<!-- <span class="head_h1_span">«Окружная школа цифровых технологий «Digital Lab»»</span>	 -->
 		<a data-toggle="modal" data-target="#exampleModal" class="primary-btn header-btn text-uppercase">УЧАСТВОВАТЬ</a>
-		<p class="p_eclips">27-29 октября г. Майкоп</p>
+		<p class="p_eclips">22 - 24 октября г. Майкоп</p>
 	</div>
 	<div class="">
 		<img class="img_area" src="assets/img/Group24right.png" alt="">
