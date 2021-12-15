@@ -192,19 +192,6 @@
 			<div class="col-lg-3 col-md-6">
 				<div class="spikers">
 					<div class="">
-						<img src="assets/img/Intersect2.png" alt="" class="img-fluid">
-					</div>
-					<div class="details">
-						<h4>АРТЕМ КРИЦЫН</h4>
-						<p>
-							Директор ФГБУ «Координационный центр Межправительственной комиссии по сотрудничеству в области вычислительной техники»
-						</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-6">
-				<div class="spikers">
-					<div class="">
 						<img src="assets/img/Intersect3.png" alt="" class="img-fluid">
 					</div>
 					<div class="details">
@@ -224,6 +211,32 @@
 						<h4>Станислав Сахаров</h4>
 						<p>
 							Руководитель программы IT-Start
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-6">
+				<div class="spikers">
+					<div class="">
+						<img src="assets/img/sergeev.png" alt="" class="img-fluid">
+					</div>
+					<div class="details">
+						<h4>Никита Сергеев</h4>
+						<p>
+						Директор проектного офиса, организатор мероприятий
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-6">
+				<div class="spikers">
+					<div class="">
+						<img src="assets/img/vetrov.png" alt="" class="img-fluid">
+					</div>
+					<div class="details">
+						<h4>Дмитрий Ветров</h4>
+						<p>
+						Сoddy преподаватель python, c/c++
 						</p>
 					</div>
 				</div>
