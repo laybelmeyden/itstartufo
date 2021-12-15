@@ -218,7 +218,7 @@
 			<div class="col-lg-3 col-md-6">
 				<div class="spikers">
 					<div class="">
-						<img src="assets/img/sergeev.png" alt="" class="img-fluid">
+						<img src="assets/img/sergeev.png" alt="" class="img-fluid" style="width: 194px;">
 					</div>
 					<div class="details">
 						<h4>Никита Сергеев</h4>
@@ -231,7 +231,7 @@
 			<div class="col-lg-3 col-md-6">
 				<div class="spikers">
 					<div class="">
-						<img src="assets/img/vetrov.png" alt="" class="img-fluid">
+						<img src="assets/img/vetrov.png" alt="" class="img-fluid"  style="width: 194px;">
 					</div>
 					<div class="details">
 						<h4>Дмитрий Ветров</h4>
